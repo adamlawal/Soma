@@ -230,3 +230,6 @@ frontend/out/
 # Alt package manager lockfile — this project uses npm
 frontend/pnpm-lock.yaml
 frontend/yarn.lock
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
